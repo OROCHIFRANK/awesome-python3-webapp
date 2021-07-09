@@ -1,3 +1,11 @@
+# Author：OROCHIFRANK.Learn by Michael Liao.
+#Version:0.1
+
+
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+
 import logging; logging.basicConfig(level=logging.INFO)
 
 import asyncio, os, json, time
